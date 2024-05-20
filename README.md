@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Output](https://github.com/Dharshni10/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145801097/da2ab12f-2155-45f3-9317-935a5af2a6a3)
+
+### Name: Dharshni V M 
+
+### Register Number: 212223240029
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
